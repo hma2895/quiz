@@ -13,21 +13,6 @@ Business flow:
 2. Then save data in to DB.
 3. Consider using DB(SQL-Server/MySQL/Mongo)
 4. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------
 
 DB:
